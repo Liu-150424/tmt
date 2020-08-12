@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "van-divider": "/wxcomponents/vant/divider/index"
+  }
+}

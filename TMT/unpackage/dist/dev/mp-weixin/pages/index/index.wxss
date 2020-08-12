@@ -1,0 +1,54 @@
+
+.navtap {
+	width: 100%;
+}
+.navtap image {
+	width: 100%;
+}
+.block {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.block_tak {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.block_tak text {
+	font-size: 30rpx;
+	padding-top: 30rpx;
+	color: #a9b3bd;
+}
+.btnsign{
+	width: 90%;
+	background-color: #1cd9dc;
+	text-align: center;
+	margin-left: 5%;
+	border-radius: 50rpx;
+	padding-top: 20rpx;
+	padding-bottom: 20rpx;
+	color: white;
+	font-size: 30rpx;
+	margin-top: 160rpx;
+}
+.btnregi{
+	width: 90%;
+	background-color: white;
+	text-align: center;
+	margin-left: 5%;
+	border-radius: 50rpx;
+	padding-top: 20rpx;
+	padding-bottom: 20rpx;
+	color: #1cd9dc;
+	font-size: 30rpx;
+	margin-top: 60rpx;
+	border: 1px solid #1cd9dc;
+}
+
